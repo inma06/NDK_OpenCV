@@ -1,5 +1,4 @@
-# Topic
-## OpenCV(4.5.1) Canny Edge Detector Example ( for Android SDK )
+### OpenCV(4.5.1) Canny Edge Detector Example ( for Android SDK )
 
 # Features
 - Detecting edge to Image
