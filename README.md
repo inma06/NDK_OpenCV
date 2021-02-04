@@ -6,5 +6,4 @@
 - Recovery for origin Image
 
 # License
-Apache 2 License
-(https://github.com/opencv/opencv/blob/master/LICENSE, "Apache2 Link")
+[Apache 2 License](https://github.com/opencv/opencv/blob/master/LICENSE, "Apache2 Link")
