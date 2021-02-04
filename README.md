@@ -7,4 +7,4 @@
 
 # License
 Apache 2 License
-[Apache 2 License](https://github.com/opencv/opencv/blob/master/LICENSE, "Apache2 Link")
+(https://github.com/opencv/opencv/blob/master/LICENSE, "Apache2 Link")
